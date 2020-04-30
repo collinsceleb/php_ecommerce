@@ -14,7 +14,7 @@
         "gulp-uglify": "3.0.2",
         "gulp-rename": "1.4.0",
         "gulp-clean-css": "4.2.0",
-        "jquery": "3.4.1",
+        "jquery": "3.5.0",
         "laravel-elixir": "6.0.0-18",
         "motion-ui": "^2.0.3",
         "slick-carousel": "^1.8.1"
